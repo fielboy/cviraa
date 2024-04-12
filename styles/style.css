@@ -1,0 +1,52 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Gill Sans', sans-serif;
+}
+
+
+/* Navbar Start */
+.navbar-nav .nav-link {
+	font-size: 17px;
+}
+
+.navbar-toggler {
+	padding: 1px 5px;
+	font-size: 15px;
+	line-height: 0.3;
+}
+
+.logo {
+	width: 13%;
+	margin-left: 5px;
+}
+
+.content {
+	min-height: 100vh;
+	width: 100%;
+}
+
+.section-padding {
+	padding: 77px 0;
+}
+/* Navbar End */
+.main {
+	background-color: rgb(231, 231, 231);
+}
+
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+#video-container {
+	display: none;
+}
+
+td,
+th {
+	border: 1px solid #adadad;
+	text-align: center;
+	padding: 8px;
+}
